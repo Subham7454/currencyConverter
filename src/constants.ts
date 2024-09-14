@@ -52,6 +52,22 @@ export const currencyByRupee: Currency[] = [
       value: 0.000000543544886,
       flag: '🎰',
       symbol: '₿',
-    },
+  },
+  
+  
+  {
+  name: 'SOUTH AFRICAN RAND',
+  value: 0.052,
+  flag: '🇿🇦',
+  symbol: 'R',
+},
+{
+  name: 'BRAZILIAN REAL',
+  value: 0.202,
+  flag: '🇧🇷',
+  symbol: 'R$',
+},
+  
+
   ];
   
